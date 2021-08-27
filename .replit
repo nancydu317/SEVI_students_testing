@@ -1,2 +1,3 @@
 # SEVI_students_testing
+language = "python3"
 run = "python 5_chat_bot_TEMPLATE.py"
